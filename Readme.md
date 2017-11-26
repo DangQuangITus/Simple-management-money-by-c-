@@ -37,7 +37,7 @@ Loại chi tiêu được tạo mặc định gồm 6 loại chi tiêu:
     + Open để mở một file thông tin chi tiêu đã lưu trước đó
     + click chuột phải sẽ có popup menu new,save, exit
 
-### Các Luồng Sự kiện chính ( Main Flow) ### 
+### Các Luồng Sự kiện chính (Main Flow) ### 
 - Mở chương trình lên sẽ thấy màn hình chính để thêm loại chi tiêu, listview thể hiện các loại chi tiêu và thống kê các loại chi tiêu
 - Bên phải màn hình chính là khu vực vẽ biểu đồ thể hiện tỉ lệ tiêu xài và chú thích cho từng loại chi tiêu
 - khi nhập nội dung đầy đủ và bấm thêm thì sẽ tự động load nội dung đã thêm vào listview và vẽ lại biểu đồ thể hiện tỉ lệ tiêu xài
