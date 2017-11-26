@@ -37,14 +37,20 @@ Loại chi tiêu được tạo mặc định gồm 6 loại chi tiêu:
     + Open để mở một file thông tin chi tiêu đã lưu trước đó
     + click chuột phải sẽ có popup menu new,save, exit
 
-### Các Luồng Sự kiện chính ( Main Flow)  ### 
+### Các Luồng Sự kiện chính ( Main Flow) ### 
 - Mở chương trình lên sẽ thấy màn hình chính để thêm loại chi tiêu, listview thể hiện các loại chi tiêu và thống kê các loại chi tiêu
 - Bên phải màn hình chính là khu vực vẽ biểu đồ thể hiện tỉ lệ tiêu xài và chú thích cho từng loại chi tiêu
 - khi nhập nội dung đầy đủ và bấm thêm thì sẽ tự động load nội dung đã thêm vào listview và vẽ lại biểu đồ thể hiện tỉ lệ tiêu xài
 ### Các Luồng Sự Kiện Phụ (add flow) ###
 - Nhập thiếu nội dung chi tiêu sẽ báo lỗi chưa nhập dữ liệu
 - nhập thiếu số tiền chi tiêu sẽ báo lỗi chưa nhập dữ liệu
-### Link tới RePo trên Bitbucket ###
-https://bitbucket.org/QuangDangFIT/paint-with-gdi-and-ribbon
+- nhập sai định dạng số tiền chi tiêu sẽ thông báo lỗi 
+
 ### Link Youtube ###
 https://goo.gl/Y7KJX8
+
+### Hướng dẫn sử dụng ###
+- Khi thêm full loại chi tiêu ( 10) muốn khởi tạo lại mặc định người dùng chỉ cần làm mới (New, nhớ save lại file để sau này xem lại) lại sổ chi tiêu và khởi động lại chương trình thì combo box loại chi tiêu sẽ quay lại là 6 loại mặc định
+### Link tới RePo trên Bitbucket ###
+https://bitbucket.org/QuangDangFIT/money-management-program
+
